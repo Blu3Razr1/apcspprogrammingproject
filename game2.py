@@ -1,7 +1,7 @@
 '''
 Evan Watson, Ryan Pike
 1-18-19
-v2.4
+v2.4.10
 Wheel O' Good Luck
 '''
 import random
